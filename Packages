@@ -1,0 +1,17 @@
+Package: com.pixeljellyfish.c0mebackf0lders
+Version: 1.1-5
+Architecture: iphoneos-arm
+Maintainer: pixeljellyfish <pixel.jellyfish12@gmail.com>, c0dine
+Installed-Size: 292
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), preferenceloader, firmware (>= 7.0)
+Filename: ./debs/com.pixeljellyfish.c0mebackf0lders_1.1-5_iphoneos-arm.deb
+Size: 39464
+MD5sum: 575669f3a59795935aea5e42024691f9
+SHA1: 51901299dcd1761ff94ec3ad5402a39e8ac9f158
+SHA256: 46d9d31120953d72869fb06b5d9c846f1c0d05bb0de2bbe2c691754183439d2e
+Section: Tweaks
+Description: folders displayed permanently on home screen
+Author: pixeljellyfish <pixel.jellyfish12@gmail.com>
+Depiction: https://devpixel12.github.io/repo/depiction/?p=com.pixeljellyfish.c0mebackf0lders
+Name: c0mebackf0lders
+
