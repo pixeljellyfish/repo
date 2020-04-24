@@ -1,0 +1,19 @@
+body {
+    padding: 20px;
+    font-family: Helvetica;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 10px;
+}
+
+.box {
+    background-color: #20262e;
+    color: #fff;
+    border-radius: 3px;
+    padding: 20px;
+    font-size: 14px;
+}
+
