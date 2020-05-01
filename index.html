@@ -5,11 +5,38 @@
     <title>pixeljellyfish Projects</title>
     <link rel="icon" href="img/favicon.ico">
     <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="assets/css/filter.css">
     <script src="https://kit.fontawesome.com/60531ed5a3.js" crossorigin="anonymous"></script>
+    <script src="assets/js/filter.js"></script>
 </head>
 <body>
-    
-
-    
+    <div class="projects">
+<section class="filter">
+<div id="myBtnContainer">
+    <button class="btn active" onclick="filterSelection('all')"> Show all </button>
+    <button class="btn" onclick="filterSelection('tweaks')"> Tweaks </button>
+    <button class="btn" onclick="filterSelection('programs')"> Programs </button>
+    <button class="btn" onclick="filterSelection('apps')"> Apps </button>
+</div>
+<!-- Portfolio Gallery Grid -->
+<div class="row">
+    <div class="column tweaks">
+        <div class="content"><a href=""></a>
+            <img src="assets/images/tweak_images/c0mebackf0lders.jpg" alt="c0mebackf0lders" style="width:70px">
+            <h4>C0meBackF0lders</h4>
+            <p>folders displayed permanently on home screen.</p>
+        </div>
+    </div>
+       <div class="column tweaks">
+           <div class="content">
+               <img src="assets/images/tweak_images/particletrail.png" alt="particletrail" style="width:70px">
+               <h4>Particle-Trail</h4>
+               <p>A 3D Particle Trail System Wide.</p>
+           </div>
+       </div>
+    <!-- END GRID -->
+</div>
+</section>
+</div>
 </body>
 </html>
