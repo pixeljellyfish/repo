@@ -1,0 +1,221 @@
+body,
+html {
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab) no-repeat center center fixed;
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 200% 50%;
+    }
+}
+
+body {
+   background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab) no-repeat center center fixed;
+   background-size: 400% 400%;
+   animation: gradient 15s ease infinite;
+}
+
+   @keyframes gradient {
+       0% {
+           background-position: 0% 50%;
+       }
+
+       50% {
+           background-position: 100% 50%;
+       }
+
+       100% {
+           background-position: 0% 50%;
+       }
+   }
+
+#changelogTitle {
+
+    text-align: center;
+    color: #ffffff;
+    opacity: 0.8;
+    font-size: 40px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    transform: translateY(50px);
+
+}
+
+.versionNumber {
+
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    transform: translateY(50px);
+
+}
+
+.versionNumber li {
+
+    color: #ffffff;
+    opacity: 0.6;
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    list-style: none;
+
+}
+
+.changesList {
+
+    margin: 0;
+    padding: 0;
+    text-align: center;
+
+}
+
+.changesList li {
+
+    color: #ffffff;
+    opacity: 0.6;
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    list-style: none;
+    margin: 0px 15px 0px 15px;
+
+}
+
+@media only screen and (max-width: 1366px) {
+
+    #changelogTitle {
+
+        font-size: 70px;
+
+    }
+
+    .versionNumber li {
+
+        font-size: 40px;
+
+    }
+
+    .changesList li {
+
+        font-size: 40px;
+
+    }
+
+}
+
+@media only screen and (max-width: 1112px) {
+
+    #changelogTitle {
+
+        font-size: 55px;
+
+    }
+
+    .versionNumber li {
+
+        font-size: 30px;
+
+    }
+
+    .changesList li {
+
+        font-size: 30px;
+
+    }
+
+}
+
+@media only screen and (max-width: 1024px) {
+
+    #changelogTitle {
+
+        font-size: 50px;
+
+    }
+
+    .versionNumber li {
+
+        font-size: 25px;
+
+    }
+
+    .changesList li {
+
+        font-size: 25px;
+
+    }
+
+}
+
+@media only screen and (max-width: 414px) {
+
+    #changelogTitle {
+
+        font-size: 55px;
+
+    }
+
+    .versionNumber li {
+
+        font-size: 30px;
+
+    }
+
+    .changesList li {
+
+        font-size: 25px;
+
+    }
+
+}
+
+@media only screen and (max-width: 375px) {
+
+    #changelogTitle {
+
+        font-size: 50px;
+
+    }
+
+    .versionNumber li {
+
+        font-size: 25px;
+
+    }
+
+    .changesList li {
+
+        font-size: 22px;
+
+    }
+
+}
+
+@media only screen and (max-width: 320px) {
+
+    #changelogTitle {
+
+        font-size: 40px;
+
+    }
+
+    .versionNumber li {
+
+        font-size: 20px;
+
+    }
+
+    .changesList li {
+
+        font-size: 20px;
+
+    }
+
+}
