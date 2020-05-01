@@ -22,9 +22,24 @@
 
 /* Add a color to the active/current link */
 .topnav a.active {
-    background-color: #ff0000;
-    color: white;
-}
+    background: linear-gradient(-45deg, #c8ff00, #ff0000, #4826e2, #23d549);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+    }
+
+    @keyframes gradient {
+        0% {
+            background-position: 0% 50%;
+        }
+
+        50% {
+            background-position: 100% 50%;
+        }
+
+        100% {
+            background-position: 0% 50%;
+        }
+    }
 
 /* Right-aligned section inside the top navigation */
 .topnav-right {
