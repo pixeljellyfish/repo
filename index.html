@@ -1,17 +1,26 @@
 <!DOCTYPE html>
-<html>
+<html id="#home">
 <head>
     <meta charset="utf-8" />
     <title>pixeljellyfish Projects</title>
     <link rel="icon" href="img/favicon.ico">
     <link rel="stylesheet" href="assets/css/main.css">
     <link rel="stylesheet" href="assets/css/filter.css">
+    <link rel="stylesheet" href="assets/css/navbar.css">
     <script src="https://kit.fontawesome.com/60531ed5a3.js" crossorigin="anonymous"></script>
     <script src="assets/js/filter.js"></script>
+<div class="topnav">
+            <a class="active" href="#home">Home</a>
+            <a href="#projects">Projects</a>
+            <a href="https://devpixel12.github.io/pixeljellyfish.xyz/">pixeljellyfish.xyz</a>
+        <div class="topnav-right">
+            <a href="https://github.com/devpixel12/repo"><i class="fas fa-code"></i> source code</a>
+        </div>
+</div>
 </head>
 <body>
-<div class="projects">
-<section class="filter">
+<div id="#projects" class="projects">
+<section>
 <div id="myBtnContainer">
     <button class="btn active" onclick="filterSelection('all')"> Show all </button>
     <button class="btn" onclick="filterSelection('tweaks')"> Tweaks </button>
@@ -21,8 +30,8 @@
 <!-- Portfolio Gallery Grid -->
 <div class="row">
     <div class="column tweaks">
-        <div class="content">
-            <img src="assets/images/tweak_images/c0mebackf0lders.jpg" alt="c0mebackf0lders" style="width:70px">
+        <div class="content"><a href="https://devpixel12.github.io/repo/depictions/cbf">
+            <img src="assets/images/tweak_images/c0mebackf0lders.jpg" alt="c0mebackf0lders" style="width:70px"></a>
             <h4>C0meBackF0lders</h4>
             <p>folders displayed permanently on home screen.</p>
         </div>
@@ -38,13 +47,10 @@
 </div>
 </section>
 </div>
-<div class="Footer">
-<section class="">
-<footer>
+<section class="Footer">
+<footer class="Footer">
            <p class="footer-text">Copyright &copy;2021 by pixeljellyfish</p>
-
 </footer>
 </section>
-</div>
 </body>
 </html>
