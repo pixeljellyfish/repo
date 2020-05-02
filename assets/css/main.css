@@ -253,8 +253,6 @@
 
  }
 
- /* dark mode detection */
-
 body, html {
     background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab) no-repeat center center fixed;
     background-size: 400% 400%;
@@ -324,5 +322,9 @@ body {
 }
 
 .Footer {
-    background-color: #00000000;
+
+}
+
+.home{
+    background-color: #000000a4;
 }
