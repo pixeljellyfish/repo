@@ -1,26 +1,48 @@
 <!DOCTYPE html>
-<html class="home">
+<html class="darkmode--activated">
 <head>
     <meta charset="utf-8"/>
     <meta name="google-site-verification" content="fT4rqVyKd0anVEdlxJYnSM9isd1CgT4yIAPyP6WBtzI"/>
     <title>pixeljellyfish | Repository</title>
-    <link rel="icon" href="img/favicon.ico">
+    <link rel="icon" href="assets/images/header_images/favicon.ico">
     <link rel="stylesheet" href="assets/css/main.css">
     <link rel="stylesheet" href="assets/css/filter.css">
     <link rel="stylesheet" href="assets/css/navbar.css">
     <script src="https://kit.fontawesome.com/60531ed5a3.js" crossorigin="anonymous"></script>
+
+        <!-- Load filter JavaScript library -->
     <script src="assets/js/filter.js"></script>
-<div class="topnav">
-            <a class="active" href=""><i class="fas fa-home"></i> Home</a>
-            <a href="#projects"><i class="fas fa-project-diagram"></i> </a>
+
+        <!-- Load dropdown-menu JavaScript library -->
+    <script src="assets/js/dropdown.js"></script>
+
+        <!-- Load responsive-navbar JavaScript library -->
+    <script src="assets/js/responsive-navbar.js"></script>
+
+<div class="navbar">
+    <div class="dropdown">
+        <div class="topnav" id="myTopnav">
+            <a class="active" href="#"><i class="fas fa-home"></i> Home</a>
             <a href="https://devpixel12.github.io/pixeljellyfish.xyz/"><i class="fas fa-meteor"></i> pixeljellyfish.xyz</a>
-        <div class="topnav-right">
-            <a href="https://github.com/devpixel12/repo"><i class="fas fa-code"></i> source code</a>
+            <div class="dropdown">
+                <button class="dropbtn" onclick="dropdown()"><i class="fas fa-box-open"></i> Add Repo</button>
+                <div class="dropdown-content" id="myDropdown">
+                    <a href="sileo://source/https://devpixel12.github.io/repo/"> sileo</a>
+                    <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://devpixel12.github.io/repo/">cydia</a>
+                    <a href="installer://add/repo=https://devpixel12.github.io/repo/"> installer</a>
+                    <a href="zbra://sources/add/https://devpixel12.github.io/repo/"> zebra</a>
+                </div>
+            </div>
         </div>
+    </div>
+    <div class="topnav-right">
+        <a href="https://github.com/devpixel12/repo"><i class="fas fa-code"></i> source code</a>
+        <a href="https://github.com/devpixel12/repo/issues/new"><i class="fas fa-bug"></i> issues</a>
+    </div>
 </div>
 </head>
 <body>
-<div id="#projects" class="projects">
+<div class="projects">
 <section>
 <div id="myBtnContainer">
     <button class="btn active" onclick="filterSelection('all')"> Show all </button>

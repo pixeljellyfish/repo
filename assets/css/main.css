@@ -253,50 +253,38 @@
 
  }
 
+/* main site css */
+
+html {
+    color: #ffffff;
+}
+
 body, html {
     background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab) no-repeat center center fixed;
     background-size: 400% 400%;
     animation: gradient 15s ease infinite;
-}
-
-@keyframes gradient {
-    0% {
-        background-position: 0% 50%;
+    color: #ffffff;
     }
 
-    50% {
-        background-position: 100% 50%;
-    }
+    @keyframes gradient {
+        0% {
+            background-position: 0% 50%;
+        }
 
-    100% {
-        background-position: 200% 50%;
-    }
-}
+        50% {
+            background-position: 100% 50%;
+        }
 
-body {
-    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab) no-repeat center center fixed;
-    background-size: 400% 400%;
-    animation: gradient 15s ease infinite;
-}
-
-@keyframes gradient {
-    0% {
-        background-position: 0% 50%;
+        100% {
+            background-position: 200% 50%;
+        }
     }
-
-    50% {
-        background-position: 100% 50%;
-    }
-
-    100% {
-        background-position: 200% 50%;
-    }
-}
 
 .projects{
     background: linear-gradient(-45deg, #c8ff00, #ff0000, #4826e2, #23d549);
     background-size: 400% 400%;
     animation: gradient 15s ease infinite;
+    color: #ffffff;
 }
 
 @keyframes gradient {
@@ -315,16 +303,5 @@ body {
 
 .footer-text {
     text-align: center;
-}
-
-.footer {
-
-}
-
-.Footer {
-
-}
-
-.home{
-    background-color: #000000a4;
+    color: #ffffff;
 }
