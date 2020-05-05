@@ -46,7 +46,7 @@ body {
     transform: translateY(70px);
     color: #ffffff;
     opacity: 0.7;
-	padding-right: 22%;
+	padding-right: -22%;
 }
 
 #descriptionTitle {
