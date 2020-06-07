@@ -281,7 +281,7 @@ body, html {
     }
 
 .projects{
-    background: linear-gradient(-45deg, #c8ff00, #ff0000, #4826e2, #23d549);
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
     background-size: 400% 400%;
     animation: gradient 15s ease infinite;
     color: #ffffff;
@@ -302,9 +302,29 @@ body, html {
 }
 
 .footer-text {
-    text-align: center;
     color: #ffffff;
 }
 .links {
 	color: #ffffff;
 }
+
+.footer {
+    background: linear-gradient(-45deg, #00ff88, #d400ff, #45e226, #0011ff);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+    color: #ffffff;
+    }
+
+    @keyframes gradient {
+        0% {
+            background-position: 0% 50%;
+        }
+
+        50% {
+            background-position: 100% 50%;
+        }
+
+        100% {
+            background-position: 0% 50%;
+        }
+    }
