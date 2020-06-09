@@ -384,6 +384,8 @@ body, html {
 }
 
 .footer {
+    font-size: medium;
+    width: 100px;
     display: grid;
     background: linear-gradient(-45deg, #00ff88, #d400ff, #45e226, #0011ff);
     background-size: 400% 400%;
@@ -404,3 +406,10 @@ body, html {
             background-position: 0% 50%;
         }
     }
+
+.footer, li{
+
+    width: 100px;
+    text-indent: inherit;
+    display: contents;
+}
