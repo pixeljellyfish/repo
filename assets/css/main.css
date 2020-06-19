@@ -308,7 +308,7 @@
      .footer {
          background: linear-gradient(-45deg, #00ff88, #d400ff, #45e226, #0011ff);
          background-size: 400% 400%;
-         animation: gradient 15s ease infinite;
+         animation: gradient forwards infinite;
          color: #ffffff;
      }
 
@@ -336,8 +336,8 @@ html {
 
 body, html {
     background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab) no-repeat center center fixed;
-    background-size: 400% 400%;
-    animation: gradient 15s ease infinite;
+    background-size: 600% 600%;
+    animation: gradient forwards infinite;
     color: #ffffff;
     }
 
@@ -358,7 +358,7 @@ body, html {
 .projects{
     background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
     background-size: 400% 400%;
-    animation: gradient 15s ease infinite;
+    animation: gradient forwards infinite;
     color: #ffffff;
 }
 
@@ -386,8 +386,8 @@ body, html {
 .footer {
     display: grid;
     background: linear-gradient(-45deg, #00ff88, #d400ff, #45e226, #0011ff);
-    background-size: 400% 400%;
-    animation: gradient 15s ease infinite;
+    background-size: 600% 600%;
+    animation: gradient forwards infinite;
     color: #ffffff;
     }
 
