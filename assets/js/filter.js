@@ -1,4 +1,5 @@
-filterSelection("all") // Execute the function and show all columns
+filterSelection("all")
+
 function filterSelection(c) {
     var x, i;
     x = document.getElementsByClassName("column");
@@ -35,7 +36,7 @@ function w3RemoveClass(element, name) {
     element.className = arr1.join(" ");
 }
 
-// Add active class to the current button (highlight it)
+// Add active class to the current control button (highlight it)
 var btnContainer = document.getElementById("myBtnContainer");
 var btns = btnContainer.getElementsByClassName("btn");
 for (var i = 0; i < btns.length; i++) {
