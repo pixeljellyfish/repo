@@ -1,13 +1,16 @@
-* {
+*:not(html, body) {
     box-sizing: border-box;
+    border-radius: 15px;
 }
 
-body{
+body {
     padding: 20px;
     font-family: Arial;
 }
 
+
 /* Center website */
+
 .main {
     max-width: 1000px;
     margin: auto;
@@ -22,13 +25,17 @@ h1 {
     margin: 8px -16px;
 }
 
+
 /* Add padding BETWEEN each column (if you want) */
+
 .row,
 .row>.column {
     padding: 8px;
 }
 
+
 /* Create three equal columns that floats next to each other */
+
 .column {
     float: left;
     width: 33.33%;
@@ -36,25 +43,33 @@ h1 {
     /* Hide columns by default */
 }
 
+
 /* Clear floats after rows */
+
 .row:after {
     content: "";
     display: table;
     clear: both;
 }
 
+
 /* Content */
+
 .content {
-    background-color: #0000;
+    background-color: rgba(0, 0, 0, 0.4);
     padding: 10px;
 }
 
+
 /* The "show" class is added to the filtered elements */
+
 .show {
     display: block;
 }
 
+
 /* Style the buttons */
+
 .btn {
     border: none;
     outline: none;
@@ -62,14 +77,19 @@ h1 {
     background-color: #00000000;
     cursor: pointer;
     color: #ffffff;
+    border-radius: 10px;
 }
 
+
 /* Add a grey background color on mouse-over */
+
 .btn:hover {
     background-color: #00000000;
 }
 
+
 /* Add a dark background color to the active button */
+
 .btn.active {
     background-color: #00000000;
     color: #ffffff;
