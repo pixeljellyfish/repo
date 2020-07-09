@@ -335,3 +335,37 @@ body {
         font-size: 22px;
     }
 }
+
+.changelog_entry {
+    margin-bottom: 18px;
+}
+
+.body {
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Helvetica", sans-serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+@media only screen and (max-width: 600px) {
+    .body {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .scroll_view {
+        width: calc(100vw - 60px);
+    }
+}
+
+@media only screen and (min-width: 601px) {
+    .body {
+        width: 500px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .scroll_view {
+        width: calc(500px - 40px);
+    }
+}

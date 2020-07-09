@@ -98,3 +98,9 @@
  .show {
      display: block;
  }
+
+         /* Right-aligned section inside the top navigation */
+/* .navbar-right {
+    float: right;
+    color: #ffffff;
+} */
