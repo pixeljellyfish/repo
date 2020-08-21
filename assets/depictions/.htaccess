@@ -1,5 +1,0 @@
-<IfModule mod_rewrite.c>
-   RewriteEngine on
-   RewriteRule ^assets(/.*|)$ $1 [L,NC]
-   RewriteRule ^depictions(/.*|)$ $1 [L,NC]
-</IfModule>
