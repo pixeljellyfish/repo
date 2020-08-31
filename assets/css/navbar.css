@@ -5,5 +5,8 @@
 /* Right-aligned section inside the top navigation */
 .navbar-right {
     float: right;
-    color: #ffffff;
+}
+
+.navbar-text{
+    margin-top: 3px;
 }
