@@ -12,7 +12,10 @@ SHA256: 9f3ae36cfd858eb0fec51817518b12d77b817e85d9350851357964b8f12f2915
 Section: Tweaks
 Description: folders displayed permanently on home screen
 Author: pixeljellyfish <pixel.jellyfish12@gmail.com>
+Depiction: https://repo.pixeljellyfish.codes/assets/depictions/cbf/
+Icon: https://repo.pixeljellyfish.codes/assets/depictions/cbf/assets/icon.png
 Name: c0mebackf0lders
+SileoDepiction: https://repo.pixeljellyfish.codes/assets/depictions/cbf/cbf.json
 
 Package: com.pixeljellyfish.c0mebackf0lders
 Version: 1.1-5
@@ -28,8 +31,10 @@ SHA256: 46d9d31120953d72869fb06b5d9c846f1c0d05bb0de2bbe2c691754183439d2e
 Section: Tweaks
 Description: folders displayed permanently on home screen
 Author: pixeljellyfish <pixel.jellyfish12@gmail.com>
-Depiction: https://devpixel12.github.io/repo/depiction/?p=com.pixeljellyfish.c0mebackf0lders
+Depiction: https://repo.pixeljellyfish.codes/assets/depictions/cbf/
+Icon: https://repo.pixeljellyfish.codes/assets/depictions/cbf/assets/icon.png
 Name: c0mebackf0lders
+SileoDepiction: https://repo.pixeljellyfish.codes/assets/depictions/cbf/cbf.json
 
 Package: com.pixeljellyfish.c0mebackf0lders
 Version: 1.1.2-5-1
@@ -45,10 +50,10 @@ SHA256: edc455befe6a141b345e0eb4e49732fad811a928cde13fba9b0fb282abc42b40
 Section: Tweaks
 Description: folders displayed permanently on home screen
 Author: pixeljellyfish <pixel.jellyfish@gmail.com>
-Depiction: https://devpixel12.github.io/repo/assets/depictions/cbf/
-Icon: https://devpixel12.github.io/repo/assets/depictions/cbf/icon.png
+Depiction: https://repo.pixeljellyfish.codes/assets/depictions/cbf/
+Icon: https://repo.pixeljellyfish.codes/assets/depictions/cbf/assets/icon.png
 Name: c0mebackf0lders
-Sileodepiction: https://devpixel12.github.io/repo/assets/depictions/cbf/cbf.json
+SileoDepiction: https://repo.pixeljellyfish.codes/assets/depictions/cbf/cbf.json
 
 Package: com.pixeljellyfish.c0mebackf0lders
 Version: 1.2-11
@@ -64,10 +69,10 @@ SHA256: 507c7dc0a690c3e359926e3241e233c29fade4bf244c8e65bcabb2d35009f456
 Section: Tweaks
 Description: folders displayed permanently on home screen.
 Author: pixeljellyfish <pixel.jellyfish@gmail.com>
-Depiction: https://devpixel12.github.io/repo/assets/depictions/cbf/index.html
-Icon: https://devpixel12.github.io/repo/assets/depictions/cbf/icon.png
+Depiction: https://repo.pixeljellyfish.codes/assets/depictions/cbf/
+Icon: https://repo.pixeljellyfish.codes/assets/depictions/cbf/assets/icon.png
 Name: c0mebackf0lders
-Sileodepiction: https://devpixel12.github.io/repo/assets/depictions/cbf/cbf.json
+SileoDepiction: https://repo.pixeljellyfish.codes/assets/depictions/cbf/cbf.json
 
 Package: com.pixeljellyfish.c0mebackf0lders
 Version: 1.2-17
@@ -83,10 +88,10 @@ SHA256: b8de0f93e8d1c3a8651c05e5e8cb88bd71f7c4d3c3a2a3b48d418100f9771dc6
 Section: Tweaks
 Description: folders displayed permanently on home screen.
 Author: pixeljellyfish <pixel.jellyfish@gmail.com>
-Depiction: https://devpixel12.github.io/repo/assets/depictions/cbf/index.html
-Icon: https://devpixel12.github.io/repo/assets/depictions/cbf/icon.png
+Depiction: https://repo.pixeljellyfish.codes/assets/depictions/cbf/
+Icon: https://repo.pixeljellyfish.codes/assets/depictions/cbf/assets/icon.png
 Name: c0mebackf0lders
-Sileodepiction: https://devpixel12.github.io/repo/assets/depictions/cbf/cbf.json
+SileoDepiction: https://repo.pixeljellyfish.codes/assets/depictions/cbf/cbf.json
 
 Package: com.pixeljellyfish.c0mebackf0lders
 Version: 1.2-18
@@ -102,10 +107,10 @@ SHA256: 3816ed6571339c2f8f7b84d8079b7f46c40a25ce47088e29076d3e872c2e6111
 Section: Tweaks
 Description: folders displayed permanently on home screen.
 Author: pixeljellyfish <pixel.jellyfish@gmail.com>
-Depiction: https://devpixel12.github.io/repo/assets/depictions/cbf/index.html
-Icon: https://devpixel12.github.io/repo/assets/depictions/cbf/icon.png
+Depiction: https://repo.pixeljellyfish.codes/assets/depictions/cbf/
+Icon: https://repo.pixeljellyfish.codes/assets/depictions/cbf/assets/icon.png
 Name: c0mebackf0lders
-Sileodepiction: https://devpixel12.github.io/repo/assets/depictions/cbf/cbf.json
+SileoDepiction: https://repo.pixeljellyfish.codes/assets/depictions/cbf/cbf.json
 
 Package: com.pixeljellyfish.c0mebackf0lders
 Version: 1.2-19
@@ -121,10 +126,10 @@ SHA256: a686b1209507eae92eb7730d139ec822c28fd7d2d4f69b355d307fd19b1f2e81
 Section: Tweaks
 Description: folders displayed permanently on home screen.
 Author: pixeljellyfish <pixel.jellyfish@gmail.com>
-Depiction: https://devpixel12.github.io/repo/assets/depictions/cbf/index.html
-Icon: https://devpixel12.github.io/repo/assets/depictions/cbf/icon.png
+Depiction: https://repo.pixeljellyfish.codes/assets/depictions/cbf/
+Icon: https://repo.pixeljellyfish.codes/assets/depictions/cbf/assets/icon.png
 Name: c0mebackf0lders
-Sileodepiction: https://devpixel12.github.io/repo/assets/depictions/cbf/cbf.json
+SileoDepiction: https://repo.pixeljellyfish.codes/assets/depictions/cbf/cbf.json
 
 Package: com.pixeljellyfish.c0mebackf0lders
 Version: 1.2-20
@@ -140,10 +145,10 @@ SHA256: c04d88249d85d158037162bc2975edc5c9dc203e5304bf338489aeec3ad0355f
 Section: Tweaks
 Description: folders displayed permanently on home screen.
 Author: pixeljellyfish <pixel.jellyfish@gmail.com>
-Depiction: https://devpixel12.github.io/repo/assets/depictions/cbf/index.html
-Icon: https://devpixel12.github.io/repo/assets/depictions/cbf/icon.png
+Depiction: https://repo.pixeljellyfish.codes/assets/depictions/cbf/
+Icon: https://repo.pixeljellyfish.codes/assets/depictions/cbf/assets/icon.png
 Name: c0mebackf0lders
-Sileodepiction: https://devpixel12.github.io/repo/assets/depictions/cbf/cbf.json
+SileoDepiction: https://repo.pixeljellyfish.codes/assets/depictions/cbf/cbf.json
 
 Package: com.pixeljellyfish.c0mebackf0lders
 Version: 1.2-21
@@ -159,10 +164,10 @@ SHA256: 78e6978f5f27b542958b12e918cf52a33abf43d5ead8185d1121f2641aec55ac
 Section: Tweaks
 Description: folders displayed permanently on home screen.
 Author: pixeljellyfish <pixel.jellyfish@gmail.com>
-Depiction: https://devpixel12.github.io/repo/assets/depictions/cbf/index.html
-Icon: https://devpixel12.github.io/repo/assets/depictions/cbf/assets/icon.png
+Depiction: https://repo.pixeljellyfish.codes/assets/depictions/cbf/
+Icon: https://repo.pixeljellyfish.codes/assets/depictions/cbf/assets/icon.png
 Name: c0mebackf0lders
-Sileodepiction: https://devpixel12.github.io/repo/assets/depictions/cbf/cbf.json
+SileoDepiction: https://repo.pixeljellyfish.codes/assets/depictions/cbf/cbf.json
 
 Package: com.pixeljellyfish.c0mebackf0lders
 Version: 1.2-22
@@ -178,8 +183,7 @@ SHA256: 72fb6d6a79f6095db56f187862c14d8cfb9e38d048684b0d96c1e3bf0b39ef19
 Section: Tweaks
 Description: folders displayed permanently on home screen.
 Author: pixeljellyfish <pixel.jellyfish@gmail.com>
-Depiction: https://devpixel12.github.io/repo/assets/depictions/cbf/index.html
-Icon: https://devpixel12.github.io/repo/assets/depictions/cbf/icon.png
+Depiction: https://repo.pixeljellyfish.codes/assets/depictions/cbf/
+Icon: https://repo.pixeljellyfish.codes/assets/depictions/cbf/assets/icon.png
 Name: c0mebackf0lders
-Sileodepiction: https://devpixel12.github.io/repo/assets/depictions/cbf/cbf.json
-
+SileoDepiction: https://repo.pixeljellyfish.codes/assets/depictions/cbf/cbf.json
