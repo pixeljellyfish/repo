@@ -11,8 +11,11 @@ SHA1: 88070dcbc78d72297ab35f9c469be41ca61d7c93
 SHA256: 9f3ae36cfd858eb0fec51817518b12d77b817e85d9350851357964b8f12f2915
 Section: Tweaks
 Description: folders displayed permanently on home screen
-Author: pixeljellyfish <pixel.jellyfish12@gmail.com>
+Author: pixeljellyfish <pixel.jellyfish@gmail.com>
+Depiction: https://repo.pixeljellyfish.codes/assets/depictions/cbf/
+Icon: https://repo.pixeljellyfish.codes/assets/depictions/cbf/assets/icon.png
 Name: c0mebackf0lders
+SileoDepiction: https://repo.pixeljellyfish.codes/assets/depictions/cbf/cbf.json
 
 Package: com.pixeljellyfish.c0mebackf0lders
 Version: 1.1-5
@@ -27,9 +30,11 @@ SHA1: 51901299dcd1761ff94ec3ad5402a39e8ac9f158
 SHA256: 46d9d31120953d72869fb06b5d9c846f1c0d05bb0de2bbe2c691754183439d2e
 Section: Tweaks
 Description: folders displayed permanently on home screen
-Author: pixeljellyfish <pixel.jellyfish12@gmail.com>
-Depiction: https://devpixel12.github.io/repo/depiction/?p=com.pixeljellyfish.c0mebackf0lders
+Author: pixeljellyfish <pixel.jellyfish@gmail.com>
+Depiction: https://repo.pixeljellyfish.codes/assets/depictions/cbf/
+Icon: https://repo.pixeljellyfish.codes/assets/depictions/cbf/assets/icon.png
 Name: c0mebackf0lders
+SileoDepiction: https://repo.pixeljellyfish.codes/assets/depictions/cbf/cbf.json
 
 Package: com.pixeljellyfish.c0mebackf0lders
 Version: 1.2-11
@@ -45,8 +50,8 @@ SHA256: 507c7dc0a690c3e359926e3241e233c29fade4bf244c8e65bcabb2d35009f456
 Section: Tweaks
 Description: folders displayed permanently on home screen.
 Author: pixeljellyfish <pixel.jellyfish@gmail.com>
-Depiction: https://devpixel12.github.io/repo/assets/depictions/cbf/index.html
-Icon: https://devpixel12.github.io/repo/assets/depictions/cbf/icon.png
+Depiction: https://repo.pixeljellyfish.codes/assets/depictions/cbf/
+Icon: https://repo.pixeljellyfish.codes/assets/depictions/cbf/assets/icon.png
 Name: c0mebackf0lders
-Sileodepiction: https://devpixel12.github.io/repo/assets/depictions/cbf/cbf.json
+SileoDepiction: https://repo.pixeljellyfish.codes/assets/depictions/cbf/cbf.json
 
