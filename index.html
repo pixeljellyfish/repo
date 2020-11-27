@@ -2,12 +2,11 @@
 <html>
 
 <head>
-    <meta charset="utf-8" />
+    <meta charset="utf-8"/>
     <meta name="google-site-verification" content="fT4rqVyKd0anVEdlxJYnSM9isd1CgT4yIAPyP6WBtzI" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>pixeljellyfish | Beta Repository</title>
     <link rel="icon" href="./assets/images/header_images/Jellyfish.png" class="next-head">
-    
         <!-- SEO -->
     <meta name="keywords" content="repo,developer,tweak-dev,New,tweaks,Tweaks,Jailbreak,IOS-13,ios">
 
@@ -31,6 +30,14 @@
     <meta name="description" content="A Cydia Repo for all my Tweaks and Projects">
     <meta name="twitter:description" content="A Cydia Repo for all my Tweaks and Projects">
     <meta property="og:type" content="website">
+    <link rel="icon" type="image/png" sizes="453x453" href="./assets/images/header_images/Jellyfish.png">
+    <link rel="icon" type="image/png" sizes="453x453" href="./assets/images/header_images/Jellyfish.png">
+    <link rel="icon" type="image/png" sizes="453x453" href="./assets/images/header_images/Jellyfish.png">
+    <link rel="icon" type="image/png" sizes="453x453" href="./assets/images/header_images/Jellyfish.png">
+    <link rel="icon" type="image/png" sizes="453x453" href="./assets/images/header_images/Jellyfish.png">
+
+        <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 
         <!-- jQuery library -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -41,10 +48,12 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic&amp;display=swap">
 
         <!-- Load Main Website Library -->
+    <link rel="stylesheet" href="./assets/css/Navigation-with-Button.css">
+    <link rel="stylesheet" href="./assets/css/Projects-Horizontal.css">
+    <link rel="stylesheet" href="./assets/css/styles.css">
     <link rel="stylesheet" href="./assets/css/filter.css">
     <link rel="stylesheet" href="./assets/css/navbar.css">
     <link rel="stylesheet" href="./assets/css/main.css">
-    <link rel="stylesheet" href="./assets/css/styles.css">
 
         <!-- Load FontAwesome Library -->
     <script src="https://kit.fontawesome.com/60531ed5a3.js" crossorigin="anonymous"></script>
@@ -55,29 +64,31 @@
         <!-- Load responsive-navbar JavaScript library -->
     <script src="./assets/js/responsive-navbar.js"></script>
 
-
-        <!-- Load FontAwesome Library -->
-    <script src="https://kit.fontawesome.com/60531ed5a3.js" crossorigin="anonymous"></script>
-
-        <!-- Load filter JavaScript library -->
-    <script src="./assets/js/filter.js"></script>
-
-        <!-- Load responsive-navbar JavaScript library -->
-    <script src="./assets/js/responsive-navbar.js"></script>
-    
-    <div class="navbar">
-        <div class="dropdown">
-            <div class="topnav" id="navbar">
-                <a class="active" href="index"><i class="fas fa-home"></i>&nbsp; Home</a>
-                <a href="https://www.pixeljellyfish.codes/"><i class="fas fa-meteor"></i>&nbsp; pixeljellyfish.codes</a>
-                  <!-- <div class="navbar-right">
-                <a href="./accounts"><i class="fas fa-user-circle"></i>&nbsp; Login/Sign-up</a></div> -->
-            </div>
-        </div>
-    </div>
 </head>
 
-<body>
+<body style="border-style: none;height: 848px;">
+    <nav class="navbar navbar-light navbar-expand-md navigation-clean-button">
+        <div class="container"><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle Navigation</span><span class="navbar-toggler-icon"></span></button><img src="assets/images/header_images/Jellyfish.png" style="width: 72;height: 72;"/><a class="navbar-brand" href="index" style="color: #ffffff;margin: 15px;">pixeljellyfish repo</a>
+            <div class="collapse navbar-collapse" id="navcol-1">
+                <ul class="nav navbar-nav mr-auto">
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="index" style="color: #ffffff;"><i class="fas fa-home home"></i>&nbsp; Home</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="https://www.pixeljellyfish.codes/" style="color: #ffffff;"><i class="fas fa-meteor"></i>&nbsp; pixeljellyfish.codes</a></li>
+                    <div class="dropdown">
+                    <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown"><i class="fas fa-book"></i>&nbsp; Other Stuff<span></span></button>
+                            <ul class="dropdown-menu">
+                            <!-- <li><a href="#"><i class="fas fa-book"></i>&nbsp; Documentation</a></li> -->
+                            <li><a class="footer-text" href="tos"><i class="fas fa-shield-alt"></i>&nbsp; Terms of Service</a></li>
+                            <li class="divider"></li>
+                            <li><a href="https://discord.gg/FEAaMdY"><i class="fab fa-discord"></i>&nbsp; Discord Server</a></li>
+  </ul>
+</div>
+<div>
+<span class="navbar-text actions navbar-right" style="color: #ffffff;"><a class="login" href="accounts/index"><i class="far fa-user-circle"></i>&nbsp; Account</a></span>
+</div>
+</ul>   
+</div>
+</div>
+</nav>
     <div class="projects">
         <section>
             <div id="myBtnContainer">
@@ -85,24 +96,34 @@
                 <button class="btn" onclick="filterSelection('tweaks')"> Tweaks </button>
                 <button class="btn" onclick="filterSelection('programs')"> Programs </button>
                 <button class="btn" onclick="filterSelection('apps')"> Apps </button>
+                <button class="btn" onclick="filterSelection('themes')"> Themes </button>
+                <button class="btn" onclick="filterSelection('plugins')"> Plugins </button>
             </div>
             <!-- Portfolio Gallery Grid -->
             <div class="row">
                 <div class="column tweaks">
                     <div class="content">
-                        <a href="https://repo.pixeljellyfish.codes/assets/depiction/cbf/">
-                            <img class="contentImg" src="./assets/images/tweak_images/c0mebackf0lders.jpg" alt="c0mebackf0lders" style="width:70px; margin-bottom: 2em;" /></a>
+                        <a href="assets/depiction/cbf/">
+                            <img class="contentImg" src="assets/images/tweak_images/c0mebackf0lders.jpg" alt="c0mebackf0lders" style="width:70px; margin-bottom: 2em;"/></a>
                         <br>
-                        <h4>C0meBackF0lders</h4>
-                        <p>folders displayed permanently on home screen.</p>
+                        <h4>c0mebackf0lders</h4>
+                        <p>Folders displayed permanently on homescreen.</p>
                     </div>
                 </div>
                 <div class="column tweaks">
                     <div class="content">
-                        <!--<a href="https://devpixel12.github.io/repo/assets/depictions/pt13/"></a> -->
-                        <img class="contentImg" src="./assets/images/tweak_images/particletrail.png" alt="particletrail" style="width:70px; margin-bottom: 2em;" />
+                        <a href="index">
+                            <img class="contentImg" src="assets/images/tweak_images/particletrail.png" alt="particletrail" style="width:70px; margin-bottom: 2em;"/></a>
                         <h4>Particle-Trail</h4>
                         <p>A 3D Particle Trail System Wide.</p>
+                    </div>
+                </div>
+                <div class="column themes">
+                    <div class="content">
+                        <a href="powercord/themes/rainbows-for-all/rainbows-for-all">
+                            <img class="contentImg" src="assets/images/theme_images/rainbows-for-all.png" alt="rainbows-for-all" style="width:70px; margin-bottom: 2em;"/></a>
+                        <h4>rainbows-for-all</h4>
+                        <p>A true rainbow discord theme for all.</p>
                     </div>
                 </div>
                 <!-- END GRID -->
@@ -126,13 +147,13 @@
                             </li>
                             &nbsp;
                             <li>
-                                <i class="fab fa-github"></i><a class="footer-text" href="https://github.com/devpixel12">&nbsp; GitHub</a>
+                                <i class="fab fa-github"></i><a class="footer-text" href="https://github.com/pixeljellyfish">&nbsp; GitHub</a>
                             </li>
                             &nbsp;
                             <br>
                             <br>
                             <li>
-                                <i class="fas fa-box-open"></i><a class="footer-text" href="https://twickd.com/profile/pixeljellyfish">&nbsp; Twickd</a>
+                                <i class="fa fa-instagram"></i><a class="footer-text" href="https://instagram.com/pixeljellyfish_dev">&nbsp; Instagram</a>
                             </li>
                             &nbsp;
                             <li>
@@ -148,12 +169,12 @@
                         <h5 class="font-weight-bold text-uppercase mt-3 mb-4">tweaks/apps</h5>
                         <ul class="list-unstyled">
                             <li>
-                                <img src="./assets/images/tweak_images/c0mebackf0lders.jpg" alt="c0mebackf0lders" style="width:30px" /><a class="footer-text" href="/assets/depictions/cbf/">&nbsp; c0meBackf0lders</a>
+                                <img src="assets/images/tweak_images/c0mebackf0lders.jpg" alt="c0mebackf0lders" /><a class="footer-text" href="/assets/depictions/cbf/">&nbsp; c0mebackf0lders</a>
                             </li>
                             <br>
                             <br>
                             <li>
-                                <img src="./assets/images/tweak_images/particletrail.png" alt="particletrail" style="width:30px" /><a class="footer-text" href="index">&nbsp; Particle-Trail</a>
+                                <img src="assets/images/tweak_images/particletrail.png" alt="particletrail" /><a class="footer-text" href="index">&nbsp; Particle-Trail</a>
                             </li>
                             <!-- <br> -->
                             <!--<li>
@@ -172,21 +193,21 @@
                         <h5 class="font-weight-bold text-uppercase mt-3 mb-4">Repository</h5>
                         <ul class="list-unstyled">
                             <li>
-                                <i class="fas fa-box"></i><a class="footer-text" href="sileo://source/https://repo.pixeljellyfish.codes">&nbsp; sileo</a>
+                                <i class="fas fa-box"></i><a class="footer-text" href="sileo://source/https://repo.pixeljellyfish.codes">&nbsp; Sileo</a>
                             </li>
                             &nbsp;
                             <li>
-                                <i class="fas fa-box-open"></i><a class="footer-text" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://repo.pixeljellyfish.codes">&nbsp; cydia</a>
+                                <i class="fas fa-box-open"></i><a class="footer-text" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://repo.pixeljellyfish.codes">&nbsp; Cydia</a>
                             </li>
                             &nbsp;
                             <br>
                             <br>
                             <li>
-                                <i class="fas fa-box"></i><a class="footer-text" href="installer://add/https://repo.pixeljellyfish.codes">&nbsp; installer</a>
+                                <i class="fas fa-box"></i><a class="footer-text" href="installer://add/https://repo.pixeljellyfish.codes">&nbsp; Installer</a>
                             </li>
                             &nbsp;
                             <li>
-                                <i class="fas fa-box-open"></i><a class="footer-text" href="zbra://sources/add/https://repo.pixeljellyfish.codes">&nbsp; zebra</a>
+                                <i class="fas fa-box-open"></i><a class="footer-text" href="zbra://sources/add/https://repo.pixeljellyfish.codes">&nbsp; Zebra</a>
                             </li>
                         </ul>
                     </div>
@@ -198,17 +219,18 @@
                         <h5 class="font-weight-bold text-uppercase mt-3 mb-4">GitHub</h5>
                         <ul class="list-unstyled">
                             <li>
-                                <i class="fas fa-code"></i><a class="footer-text" href="https://github.com/devpixel12/repo">&nbsp; Source Code</a>
+                                <i class="fas fa-code"></i><a class="footer-text"
+                                    href="https://github.com/pixeljellyfish/repo">&nbsp; Source Code</a>
                             </li>
                             &nbsp;
                             <li>
-                                <i class="fas fa-bug"></i><a class="footer-text" href="https://github.com/devpixel12/repo/issues?q=is+label%3Abug">&nbsp; Bug Report</a>
+                                <i class="fas fa-bug"></i><a class="footer-text" href="https://github.com/pixeljellyfish/repo/issues?q=is+label%3Abug">&nbsp; Bug Report</a>
                             </li>
                             &nbsp;
                             <br>
                             <br>
                             <li>
-                                <i class="fas fa-tasks"></i><a class="footer-text" href="https://github.com/devpixel12/repo/projects/1">&nbsp; Repo Progress</a>
+                                <i class="fas fa-tasks"></i><a class="footer-text" href="https://github.com/pixeljellyfish/repo/projects/1">&nbsp; Repo Progress</a>
                             </li>
                             &nbsp;
                             <li>
@@ -216,48 +238,84 @@
                             </li>
                         </ul>
                     </div>
-                    <!-- Grid column -->
                 </div>
-                <!-- Grid row -->
+            </div>
+            <!-- Grid row -->
+            <!-- Copyright -->
+            <div class="footer-copyright text-center py-3"><a href="tos">© 2020 Copyright:</a><a class="footer-text" href="indexv2">&nbsp; repo.pixeljellyfish.codes</a>
             </div>
             <!-- Copyright -->
-            <div class="footer-copyright text-center py-3">© 2020 Copyright:<a class="footer-text" href="index">&nbsp;  repo.pixeljellyfish.codes</a></div>
-            <!-- Copyright -->
         </footer>
-        <!-- Footer -->
     </div>
-    <!-- SCRIPTS -->
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="https://www.gstatic.com/firebasejs/7.17.1/firebase-app.js"></script>
 
-    <!-- JQuery -->
-
-    <script type="text/javascript" src="./assets/js/jquery-3.4.1.min.js"></script>
-
-    <!-- Bootstrap tooltips -->
-
-    <script type="text/javascript" src="./assets/js/popper.min.js"></script>
-
-    <!-- Bootstrap core JavaScript -->
-
-    <script type="text/javascript" src="./assets/js/bootstrap.min.js"></script>
-
-    <!-- MDB core JavaScript -->
-
-    <script type="text/javascript" src="./assets/js/mdb.min.js"></script>
-    
-<!-- The core Firebase JS SDK is always required and must be listed first -->
-<script src="https://www.gstatic.com/firebasejs/7.17.1/firebase-app.js"></script>
-
-<!-- TODO: Add SDKs for Firebase products that you want to use
+    <!-- TODO: Add SDKs for Firebase products that you want to use
      https://firebase.google.com/docs/web/setup#available-libraries -->
-<script src="https://www.gstatic.com/firebasejs/7.17.1/firebase-analytics.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.17.1/firebase-analytics.js"></script>
 
-<script>
-    // Your web app's Firebase configuration
-var _0x2379=['278747946707','repo-pixeljellyfish-codes.firebaseapp.com','repo-pixeljellyfish-codes.appspot.com','repo-pixeljellyfish-codes','https://repo-pixeljellyfish-codes.firebaseio.com','AIzaSyDhL7zx7NLqBVMyUQrSnsTrm6qKcGF5ltI','1:278747946707:web:d07831897802ced13a3e26','initializeApp','G-G8JRN19DC3'];(function(_0x170112,_0x2379c6){var _0x472336=function(_0xae3613){while(--_0xae3613){_0x170112['push'](_0x170112['shift']());}};_0x472336(++_0x2379c6);}(_0x2379,0xc4));var _0x4723=function(_0x170112,_0x2379c6){_0x170112=_0x170112-0x0;var _0x472336=_0x2379[_0x170112];return _0x472336;};var firebaseConfig={'apiKey':_0x4723('0x7'),'authDomain':_0x4723('0x3'),'databaseURL':_0x4723('0x6'),'projectId':_0x4723('0x5'),'storageBucket':_0x4723('0x4'),'messagingSenderId':_0x4723('0x2'),'appId':_0x4723('0x8'),'measurementId':_0x4723('0x1')};firebase[_0x4723('0x0')](firebaseConfig),firebase['analytics']();
-    // Initialize Firebase
-var _0x2379=['278747946707','repo-pixeljellyfish-codes.firebaseapp.com','repo-pixeljellyfish-codes.appspot.com','repo-pixeljellyfish-codes','https://repo-pixeljellyfish-codes.firebaseio.com','AIzaSyDhL7zx7NLqBVMyUQrSnsTrm6qKcGF5ltI','1:278747946707:web:d07831897802ced13a3e26','initializeApp','G-G8JRN19DC3'];(function(_0x170112,_0x2379c6){var _0x472336=function(_0xae3613){while(--_0xae3613){_0x170112['push'](_0x170112['shift']());}};_0x472336(++_0x2379c6);}(_0x2379,0xc4));var _0x4723=function(_0x170112,_0x2379c6){_0x170112=_0x170112-0x0;var _0x472336=_0x2379[_0x170112];return _0x472336;};var firebaseConfig={'apiKey':_0x4723('0x7'),'authDomain':_0x4723('0x3'),'databaseURL':_0x4723('0x6'),'projectId':_0x4723('0x5'),'storageBucket':_0x4723('0x4'),'messagingSenderId':_0x4723('0x2'),'appId':_0x4723('0x8'),'measurementId':_0x4723('0x1')};firebase[_0x4723('0x0')](firebaseConfig),firebase['analytics']();
-</script>
-
+    <script>
+        // Your web app's Firebase configuration
+        var _0x2379 = ['278747946707', 'repo-pixeljellyfish-codes.firebaseapp.com',
+            'repo-pixeljellyfish-codes.appspot.com', 'repo-pixeljellyfish-codes',
+            'https://repo-pixeljellyfish-codes.firebaseio.com', 'AIzaSyDhL7zx7NLqBVMyUQrSnsTrm6qKcGF5ltI',
+            '1:278747946707:web:d07831897802ced13a3e26', 'initializeApp', 'G-G8JRN19DC3'
+        ];
+        (function (_0x170112, _0x2379c6) {
+            var _0x472336 = function (_0xae3613) {
+                while (--_0xae3613) {
+                    _0x170112['push'](_0x170112['shift']());
+                }
+            };
+            _0x472336(++_0x2379c6);
+        }(_0x2379, 0xc4));
+        var _0x4723 = function (_0x170112, _0x2379c6) {
+            _0x170112 = _0x170112 - 0x0;
+            var _0x472336 = _0x2379[_0x170112];
+            return _0x472336;
+        };
+        var firebaseConfig = {
+            'apiKey': _0x4723('0x7'),
+            'authDomain': _0x4723('0x3'),
+            'databaseURL': _0x4723('0x6'),
+            'projectId': _0x4723('0x5'),
+            'storageBucket': _0x4723('0x4'),
+            'messagingSenderId': _0x4723('0x2'),
+            'appId': _0x4723('0x8'),
+            'measurementId': _0x4723('0x1')
+        };
+        firebase[_0x4723('0x0')](firebaseConfig), firebase['analytics']();
+        // Initialize Firebase
+        var _0x2379 = ['278747946707', 'repo-pixeljellyfish-codes.firebaseapp.com',
+            'repo-pixeljellyfish-codes.appspot.com', 'repo-pixeljellyfish-codes',
+            'https://repo-pixeljellyfish-codes.firebaseio.com', 'AIzaSyDhL7zx7NLqBVMyUQrSnsTrm6qKcGF5ltI',
+            '1:278747946707:web:d07831897802ced13a3e26', 'initializeApp', 'G-G8JRN19DC3'
+        ];
+        (function (_0x170112, _0x2379c6) {
+            var _0x472336 = function (_0xae3613) {
+                while (--_0xae3613) {
+                    _0x170112['push'](_0x170112['shift']());
+                }
+            };
+            _0x472336(++_0x2379c6);
+        }(_0x2379, 0xc4));
+        var _0x4723 = function (_0x170112, _0x2379c6) {
+            _0x170112 = _0x170112 - 0x0;
+            var _0x472336 = _0x2379[_0x170112];
+            return _0x472336;
+        };
+        var firebaseConfig = {
+            'apiKey': _0x4723('0x7'),
+            'authDomain': _0x4723('0x3'),
+            'databaseURL': _0x4723('0x6'),
+            'projectId': _0x4723('0x5'),
+            'storageBucket': _0x4723('0x4'),
+            'messagingSenderId': _0x4723('0x2'),
+            'appId': _0x4723('0x8'),
+            'measurementId': _0x4723('0x1')
+        };
+        firebase[_0x4723('0x0')](firebaseConfig), firebase['analytics']();
+    </script>
 </body>
 
 </html>
