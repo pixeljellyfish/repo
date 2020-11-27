@@ -1,0 +1,16 @@
+body,
+html {
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab) no-repeat center center fixed;
+    background-size: 600% 600%;
+    animation: gradient 12s infinite;
+}
+
+@keyframes gradient {
+    from {
+        -webkit-filter: hue-rotate(0deg);
+    }
+
+    to {
+        -webkit-filter: hue-rotate(360deg);
+    }
+}

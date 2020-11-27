@@ -1,0 +1,19 @@
+body,
+html {
+    background-size: 600% 600%;
+    margin: 0;
+    font-family: "SF pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 0.9375rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #000000;
+}
+
+div {
+    text-align: center;
+}
+
+p,
+ol {
+    text-align: left;
+}

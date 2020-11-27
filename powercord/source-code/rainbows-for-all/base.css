@@ -1,0 +1,70 @@
+:root {
+    --colAppBG: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab, #0048BA, #B0BF1A) no-repeat center center fixed;
+    --DisplayLibraryMenu: none; /* Block or none */
+    --DisplayNitroMenu: none; /* Block or none */
+    --DisplayBlockedMessages: none; /* Flex or none */
+    --ColFont: #ffffff; /* Font Color */
+    --ColSpoilerUncovered: transparent; /* Color */
+    --ColSpoilerCovered: var(--ColBackground1); /* Color */
+    --ColBackground1: var(--ColAppBG); /* Color */
+    --ColAccentAlpha: #d8b41b1a; /* Color with Alpha */
+    --ColAccent: #d8b415; /* Color */
+}
+
+/* App Background */
+body
+
+/* Discord Application Body */
+    {
+        background: var(--ColAppBG);
+        background-size: 600% 600%;
+        animation: gradient 12s infinite;
+}
+
+@keyframes gradient {
+    from {
+        -webkit-filter: hue-rotate(0deg);
+    }
+
+    to {
+        -webkit-filter: hue-rotate(360deg);
+    }
+}
+/* rainbow mentions */
+.theme-dark .isMentioned-N-h9aa .mention,
+.theme-light .isMentioned-N-h9aa .mention:hover,
+.theme-dark .wrapper-3WhCwL:hover,
+.theme-dark .wrapper-3WhCwL {
+    background: transparent !important;
+}
+.theme-dark .isMentioned-N-h9aa .mention,
+.theme-light .isMentioned-N-h9aa .mention,
+.theme-dark .wrapper-3WhCwL,
+.theme-dark .wrapper-3WhCwL:hover,
+.theme-dark .isMentioned-N-h9aa,
+.theme-dark .isMentioned-N-h9aa {
+    color: #00e5ff;
+    animation: rainbowmention 3s infinite linear;
+}
+
+@keyframes rainbowmention {
+    from {
+        -webkit-filter: hue-rotate(0deg);
+    }
+
+    to {
+        -webkit-filter: hue-rotate(360deg);
+    }
+}
+
+/* Timestamps not copy */
+.header-23xsNx {
+        2 user-select: none;
+        3
+    }
+
+/* Reply text opacity */
+.repliedTextPreview-2NBljf {
+        2 opacity: 100 !important;
+        3
+    }
