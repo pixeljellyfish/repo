@@ -54,6 +54,7 @@
     <link rel="stylesheet" href="./assets/css/filter.css">
     <link rel="stylesheet" href="./assets/css/navbar.css">
     <link rel="stylesheet" href="./assets/css/main.css">
+    <link rel="stylesheet" href="./assets/css/macinstyle.css">
 
         <!-- Load FontAwesome Library -->
     <script src="https://kit.fontawesome.com/60531ed5a3.js" crossorigin="anonymous"></script>
@@ -64,6 +65,18 @@
         <!-- Load responsive-navbar JavaScript library -->
     <script src="./assets/js/responsive-navbar.js"></script>
 
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-0XWDNC13T9"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-0XWDNC13T9');
+    </script>
 </head>
 
 <body style="border-style: none;height: 848px;">
@@ -83,7 +96,7 @@
   </ul>
 </div>
 <div>
-<span class="navbar-text actions navbar-right" style="color: #ffffff;"><a class="login" href="accounts/index"><i class="far fa-user-circle"></i>&nbsp; Account</a></span>
+<span class="navbar-text actions navbar-right" style="color: #ffffff;"><a class="login" href="/api/discord/login"><i class="fas fa-discord"></i>&nbsp; Login with discord</a></span>
 </div>
 </ul>   
 </div>
@@ -242,7 +255,7 @@
             </div>
             <!-- Grid row -->
             <!-- Copyright -->
-            <div class="footer-copyright text-center py-3"><a href="tos">© 2020 Copyright:</a><a class="footer-text" href="indexv2">&nbsp; repo.pixeljellyfish.codes</a>
+            <div class="footer-copyright text-center py-3"><a href="tos">© 2020 Copyright:</a><a class="footer-text" href="index">&nbsp; repo.pixeljellyfish.codes</a>
             </div>
             <!-- Copyright -->
         </footer>

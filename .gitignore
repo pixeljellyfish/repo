@@ -2,3 +2,4 @@
 /.github
 /node_modules/mdbootstrap
 node_modules
+/process.env.mySecret
