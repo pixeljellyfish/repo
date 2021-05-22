@@ -1,0 +1,465 @@
+Package: com.pixeljellyfish.c0mebackf0lders
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: pixeljellyfish <pixel.jellyfish12@gmail.com>, c0dine
+Installed-Size: 360
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), preferenceloader, firmware (>= 7.0)
+Filename: ./debs/com.pixeljellyfish.c0mebackf0lders_1.1-2_iphoneos-arm.deb
+Size: 110922
+MD5sum: 88aa79f5b21eae3356862fd344a527aa
+SHA1: 88070dcbc78d72297ab35f9c469be41ca61d7c93
+SHA256: 9f3ae36cfd858eb0fec51817518b12d77b817e85d9350851357964b8f12f2915
+Section: Tweaks-Beta
+Description: folders displayed permanently on home screen
+Author: pixeljellyfish <pixel.jellyfish12@gmail.com>
+Name: c0mebackf0lders
+
+Package: com.pixeljellyfish.c0mebackf0lders
+Version: 1.1-5
+Architecture: iphoneos-arm
+Maintainer: pixeljellyfish <pixel.jellyfish12@gmail.com>, c0dine
+Installed-Size: 292
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), preferenceloader, firmware (>= 7.0)
+Filename: ./debs/com.pixeljellyfish.c0mebackf0lders_1.1-5_iphoneos-arm.deb
+Size: 39464
+MD5sum: 575669f3a59795935aea5e42024691f9
+SHA1: 51901299dcd1761ff94ec3ad5402a39e8ac9f158
+SHA256: 46d9d31120953d72869fb06b5d9c846f1c0d05bb0de2bbe2c691754183439d2e
+Section: Tweaks-Beta
+Description: folders displayed permanently on home screen
+Author: pixeljellyfish <pixel.jellyfish12@gmail.com>
+Depiction: https://devpixel12.github.io/repo/depiction/?p=com.pixeljellyfish.c0mebackf0lders
+Name: c0mebackf0lders
+
+Package: com.pixeljellyfish.c0mebackf0lders
+Version: 1.1.2-5-1
+Architecture: iphoneos-arm
+Maintainer: pixeljellyfish <pixel.jellyfish@gmail.com>, c0dine
+Installed-Size: 292
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), preferenceloader, firmware (>= 7.0)
+Filename: ./debs/com.pixeljellyfish.c0mebackf0lders_1.1.2-5-1_iphoneos-arm.deb
+Size: 39516
+MD5sum: 31e54b2842cf44a17a1740fc1f999f70
+SHA1: 8ec0982412df5c28bdfa0c536566bde337382c56
+SHA256: edc455befe6a141b345e0eb4e49732fad811a928cde13fba9b0fb282abc42b40
+Section: Tweaks-Beta
+Description: folders displayed permanently on home screen
+Author: pixeljellyfish <pixel.jellyfish@gmail.com>
+Depiction: https://devpixel12.github.io/repo/assets/depictions/cbf/
+Icon: https://devpixel12.github.io/repo/assets/depictions/cbf/icon.png
+Name: c0mebackf0lders
+Sileodepiction: https://devpixel12.github.io/repo/assets/depictions/cbf/cbf.json
+
+Package: com.pixeljellyfish.c0mebackf0lders
+Version: 1.2-11
+Architecture: iphoneos-arm
+Maintainer: pixeljellyfish <pixel.jellyfish@gmail.com>, c0dine
+Installed-Size: 924
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 7.0)
+Filename: ./debs/com.pixeljellyfish.c0mebackf0lders_1.2-11_iphoneos-arm.deb
+Size: 620708
+MD5sum: 0aa595e398e2512c6316131f301985d6
+SHA1: 9429afc28afcc229a0bbd4daeca2b50bee4ecbb7
+SHA256: 507c7dc0a690c3e359926e3241e233c29fade4bf244c8e65bcabb2d35009f456
+Section: Tweaks-Beta
+Description: folders displayed permanently on home screen.
+Author: pixeljellyfish <pixel.jellyfish@gmail.com>
+Depiction: https://devpixel12.github.io/repo/assets/depictions/cbf/index.html
+Icon: https://devpixel12.github.io/repo/assets/depictions/cbf/icon.png
+Name: c0mebackf0lders
+Sileodepiction: https://devpixel12.github.io/repo/assets/depictions/cbf/cbf.json
+
+Package: com.pixeljellyfish.c0mebackf0lders
+Version: 1.2-17
+Architecture: iphoneos-arm
+Maintainer: pixeljellyfish <pixel.jellyfish@gmail.com>, c0dine
+Installed-Size: 924
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 7.0)
+Filename: ./debs/com.pixeljellyfish.c0mebackf0lders_1.2-17_iphoneos-arm.deb
+Size: 620988
+MD5sum: 72bbb8ee483e79f2e393a8f28238607e
+SHA1: 4a6253bb30fe9484763d829e4031bb51c61878fd
+SHA256: b8de0f93e8d1c3a8651c05e5e8cb88bd71f7c4d3c3a2a3b48d418100f9771dc6
+Section: Tweaks-Beta
+Description: folders displayed permanently on home screen.
+Author: pixeljellyfish <pixel.jellyfish@gmail.com>
+Depiction: https://devpixel12.github.io/repo/assets/depictions/cbf/index.html
+Icon: https://devpixel12.github.io/repo/assets/depictions/cbf/icon.png
+Name: c0mebackf0lders
+Sileodepiction: https://devpixel12.github.io/repo/assets/depictions/cbf/cbf.json
+
+Package: com.pixeljellyfish.c0mebackf0lders
+Version: 1.2-18
+Architecture: iphoneos-arm
+Maintainer: pixeljellyfish <pixel.jellyfish@gmail.com>, c0dine
+Installed-Size: 924
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 7.0)
+Filename: ./debs/com.pixeljellyfish.c0mebackf0lders_1.2-18_iphoneos-arm.deb
+Size: 620924
+MD5sum: 6d6d85e90c6905c669054453bd7ee489
+SHA1: 9df4b685685dee3ec3a2cce100c15f7b42ef4a93
+SHA256: 3816ed6571339c2f8f7b84d8079b7f46c40a25ce47088e29076d3e872c2e6111
+Section: Tweaks-Beta
+Description: folders displayed permanently on home screen.
+Author: pixeljellyfish <pixel.jellyfish@gmail.com>
+Depiction: https://devpixel12.github.io/repo/assets/depictions/cbf/index.html
+Icon: https://devpixel12.github.io/repo/assets/depictions/cbf/icon.png
+Name: c0mebackf0lders
+Sileodepiction: https://devpixel12.github.io/repo/assets/depictions/cbf/cbf.json
+
+Package: com.pixeljellyfish.c0mebackf0lders
+Version: 1.2-19
+Architecture: iphoneos-arm
+Maintainer: pixeljellyfish <pixel.jellyfish@gmail.com>, c0dine
+Installed-Size: 924
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 7.0)
+Filename: ./debs/com.pixeljellyfish.c0mebackf0lders_1.2-19_iphoneos-arm.deb
+Size: 621056
+MD5sum: 07714da6a181db1a38a589435e45220e
+SHA1: b4f5bbca61e257886c395db0672b478b45f1273a
+SHA256: a686b1209507eae92eb7730d139ec822c28fd7d2d4f69b355d307fd19b1f2e81
+Section: Tweaks-Beta
+Description: folders displayed permanently on home screen.
+Author: pixeljellyfish <pixel.jellyfish@gmail.com>
+Depiction: https://devpixel12.github.io/repo/assets/depictions/cbf/index.html
+Icon: https://devpixel12.github.io/repo/assets/depictions/cbf/icon.png
+Name: c0mebackf0lders
+Sileodepiction: https://devpixel12.github.io/repo/assets/depictions/cbf/cbf.json
+
+Package: com.pixeljellyfish.c0mebackf0lders
+Version: 1.2-20
+Architecture: iphoneos-arm
+Maintainer: pixeljellyfish <pixel.jellyfish@gmail.com>, c0dine
+Installed-Size: 924
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 7.0)
+Filename: ./debs/com.pixeljellyfish.c0mebackf0lders_1.2-20_iphoneos-arm.deb
+Size: 620900
+MD5sum: e83db1e5e620cb946337d6948a32855a
+SHA1: f3cd6a5535e5befee20b2dca45fd77f9acfdb560
+SHA256: c04d88249d85d158037162bc2975edc5c9dc203e5304bf338489aeec3ad0355f
+Section: Tweaks-Beta
+Description: folders displayed permanently on home screen.
+Author: pixeljellyfish <pixel.jellyfish@gmail.com>
+Depiction: https://devpixel12.github.io/repo/assets/depictions/cbf/index.html
+Icon: https://devpixel12.github.io/repo/assets/depictions/cbf/icon.png
+Name: c0mebackf0lders
+Sileodepiction: https://devpixel12.github.io/repo/assets/depictions/cbf/cbf.json
+
+Package: com.pixeljellyfish.c0mebackf0lders
+Version: 1.2-21
+Architecture: iphoneos-arm
+Maintainer: pixeljellyfish <pixel.jellyfish@gmail.com>, c0dine
+Installed-Size: 924
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 7.0)
+Filename: ./debs/com.pixeljellyfish.c0mebackf0lders_1.2-21_iphoneos-arm.deb
+Size: 621062
+MD5sum: 02976f7993dc6cbda7050e15662044b5
+SHA1: cf46b21d9ca05378bd1a975ef51632d3e76e79d6
+SHA256: 78e6978f5f27b542958b12e918cf52a33abf43d5ead8185d1121f2641aec55ac
+Section: Tweaks-Beta
+Description: folders displayed permanently on home screen.
+Author: pixeljellyfish <pixel.jellyfish@gmail.com>
+Depiction: https://devpixel12.github.io/repo/assets/depictions/cbf/index.html
+Icon: https://devpixel12.github.io/repo/assets/depictions/cbf/icon.png
+Name: c0mebackf0lders
+Sileodepiction: https://devpixel12.github.io/repo/assets/depictions/cbf/cbf.json
+
+Package: com.pixeljellyfish.c0mebackf0lders
+Version: 1.2-22
+Architecture: iphoneos-arm
+Maintainer: pixeljellyfish <pixel.jellyfish@gmail.com>, c0dine
+Installed-Size: 992
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 7.0)
+Filename: ./debs/com.pixeljellyfish.c0mebackf0lders_1.2-22_iphoneos-arm.deb
+Size: 633706
+MD5sum: 812d6b92d20a07d35bbf835c47ae103f
+SHA1: 8b956efa988f7e87ac6887ec8c2131ae35d383a5
+SHA256: 72fb6d6a79f6095db56f187862c14d8cfb9e38d048684b0d96c1e3bf0b39ef19
+Section: Tweaks-Beta
+Description: folders displayed permanently on home screen.
+Author: pixeljellyfish <pixel.jellyfish@gmail.com>
+Depiction: https://devpixel12.github.io/repo/assets/depictions/cbf/index.html
+Icon: https://devpixel12.github.io/repo/assets/depictions/cbf/icon.png
+Name: c0mebackf0lders
+Sileodepiction: https://devpixel12.github.io/repo/assets/depictions/cbf/cbf.json
+
+Package: com.pixeljellyfish.c0mebackf0lders
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: pixeljellyfish <pixel.jellyfish@gmail.com>, c0dine
+Installed-Size: 928
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 7.0)
+Filename: ./debs/com.pixeljellyfish.c0mebackf0lders_2.0_iphoneos-arm.deb
+Size: 648366
+MD5sum: d888d5df4ff8cbc1610a8e21c9aab589
+SHA1: dc73ab67e38efaf8030003d71ac13cd6fe7b9d2d
+SHA256: beb821f78e77d796673caaff7bdd9269cf270712f4f8d6098d6e93ad4afd896f
+Section: Tweaks-Dev
+Description: prevents folders from being removed from the homescreen.
+Author: pixeljellyfish <pixel.jellyfish@gmail.com>
+Depiction: https://devpixel12.github.io/repo/assets/depictions/cbf/
+Icon: https://devpixel12.github.io/repo/assets/depictions/cbf/assets/icon.png
+Name: c0mebackf0lders
+Sileodepiction: https://devpixel12.github.io/repo/assets/depictions/cbf/cbf.json
+
+Package: com.pixeljellyfish.c0mebackf0lders
+Version: 2.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: pixeljellyfish <pixel.jellyfish12@gmail.com>, c0dine
+Installed-Size: 1280
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 7.0)
+Filename: ./debs/com.pixeljellyfish.c0mebackf0lders_2.0-1+debug_iphoneos-arm.deb
+Size: 935014
+MD5sum: 78e00189b907c7a194e429fa7099bca5
+SHA1: 5b72ce2c2cbbe574053c307d0007adf9eaefba84
+SHA256: 93b2dac30ae1483eb10f58c3e3ec734f7351b9625b301aca74913c32af4ba26a
+Section: Tweaks-Dev
+Description: Prevents Folders from being removed from the HomeScreen.
+Author: pixeljellyfish <pixel.jellyfish12@gmail.com>
+Depiction: https://repo.pixeljellyfish.codes/assets/depictions/cbf/
+Icon: https://repo.pixeljellyfish.codes/assets/depictions/cbf/assets/icon.png
+Name: c0mebackf0lders
+Sileodepiction: https://repo.pixeljellyfish.codes/assets/depictions/cbf/cbf.json
+
+Package: com.pixeljellyfish.c0mebackf0lders
+Version: 2.0-10+debug
+Architecture: iphoneos-arm
+Maintainer: pixeljellyfish <pixel.jellyfish@gmail.com>, c0dine
+Installed-Size: 980
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 7.0)
+Filename: ./debs/com.pixeljellyfish.c0mebackf0lders_2.0-10+debug_iphoneos-arm.deb
+Size: 663394
+MD5sum: c05087346eabe5d78830d8d7f6fd27a9
+SHA1: da483f2cec41a21d209302b63e6fb2d62002150f
+SHA256: f6988968a169077d30ebeb3ace98b53d37f85b31ce1c96f465412a366889b169
+Section: Tweaks-Dev
+Description: prevents folders from being removed from the homescreen.
+Author: pixeljellyfish <pixel.jellyfish@gmail.com>
+Depiction: https://devpixel12.github.io/repo/assets/depictions/cbf/
+Icon: https://devpixel12.github.io/repo/assets/depictions/cbf/assets/icon.png
+Name: c0mebackf0lders
+Sileodepiction: https://devpixel12.github.io/repo/assets/depictions/cbf/cbf.json
+
+Package: com.pixeljellyfish.c0mebackf0lders
+Version: 2.0-11+debug
+Architecture: iphoneos-arm
+Maintainer: pixeljellyfish <pixel.jellyfish@gmail.com>, c0dine
+Installed-Size: 980
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 7.0)
+Filename: ./debs/com.pixeljellyfish.c0mebackf0lders_2.0-11+debug_iphoneos-arm.deb
+Size: 663356
+MD5sum: bbece9111e70bc7a9ee888e629b5a5cb
+SHA1: c99db5d40597ebcb27470cbdadb628f1a358f044
+SHA256: 4d69939a0e6131e4c1a1ce76754723080f3dd64428c635b323fcec49d3d2fe73
+Section: Tweaks-Dev
+Description: prevents folders from being removed from the homescreen.
+Author: pixeljellyfish <pixel.jellyfish@gmail.com>
+Depiction: https://devpixel12.github.io/repo/assets/depictions/cbf/
+Icon: https://devpixel12.github.io/repo/assets/depictions/cbf/assets/icon.png
+Name: c0mebackf0lders
+Sileodepiction: https://devpixel12.github.io/repo/assets/depictions/cbf/cbf.json
+
+Package: com.pixeljellyfish.c0mebackf0lders
+Version: 2.0-12+debug
+Architecture: iphoneos-arm
+Maintainer: pixeljellyfish <pixel.jellyfish@gmail.com>, c0dine
+Installed-Size: 980
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 7.0)
+Filename: ./debs/com.pixeljellyfish.c0mebackf0lders_2.0-12+debug_iphoneos-arm.deb
+Size: 663348
+MD5sum: 2ff26c46fffa1dca1d4e93a26ab9a6f2
+SHA1: e9757b0f00996a14fefebdd1eeabf78a7fd28927
+SHA256: c87431d806161764fb46d624e0f1fd014efe77978f4dd387514db399e50c381b
+Section: Tweaks-Dev
+Description: prevents folders from being removed from the homescreen.
+Author: pixeljellyfish <pixel.jellyfish@gmail.com>
+Depiction: https://devpixel12.github.io/repo/assets/depictions/cbf/
+Icon: https://devpixel12.github.io/repo/assets/depictions/cbf/assets/icon.png
+Name: c0mebackf0lders
+Sileodepiction: https://devpixel12.github.io/repo/assets/depictions/cbf/cbf.json
+
+Package: com.pixeljellyfish.c0mebackf0lders
+Version: 2.0-13+debug
+Architecture: iphoneos-arm
+Maintainer: pixeljellyfish <pixel.jellyfish@gmail.com>, c0dine
+Installed-Size: 1436
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 7.0)
+Filename: ./debs/com.pixeljellyfish.c0mebackf0lders_2.0-13+debug_iphoneos-arm.deb
+Size: 895942
+MD5sum: 822a8f1f69dc72e4b1a0ded9c3d2e258
+SHA1: 510caaaa8f5f4d95ca0776598bffc75b17410f7a
+SHA256: 1e96dc9950857d0f2df7370a06bcebe0a8f46bfd37b021f3e6fc77ea01665c2a
+Section: Tweaks-Dev
+Description: prevents folders from being removed from the homescreen.
+Author: pixeljellyfish <pixel.jellyfish@gmail.com>
+Depiction: https://devpixel12.github.io/repo/assets/depictions/cbf/
+Icon: https://devpixel12.github.io/repo/assets/depictions/cbf/assets/icon.png
+Name: c0mebackf0lders
+Sileodepiction: https://devpixel12.github.io/repo/assets/depictions/cbf/cbf.json
+
+Package: com.pixeljellyfish.c0mebackf0lders
+Version: 2.0-14+debug
+Architecture: iphoneos-arm
+Maintainer: pixeljellyfish <pixel.jellyfish@gmail.com>, c0dine
+Installed-Size: 1472
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 7.0)
+Filename: ./debs/com.pixeljellyfish.c0mebackf0lders_2.0-14+debug_iphoneos-arm.deb
+Size: 927534
+MD5sum: 965614b65133b236529fc68f9ea30012
+SHA1: f130afc56b68b16b44644f404aa12502f25cb897
+SHA256: cfc9e035b066ebe89012090fb3e321b3a2172e7bbbd3123f942c4236ca0faf6d
+Section: Tweaks-Dev
+Description: prevents folders from being removed from the homescreen.
+Author: pixeljellyfish <pixel.jellyfish@gmail.com>
+Depiction: https://devpixel12.github.io/repo/assets/depictions/cbf/
+Icon: https://devpixel12.github.io/repo/assets/depictions/cbf/assets/icon.png
+Name: c0mebackf0lders
+Sileodepiction: https://devpixel12.github.io/repo/assets/depictions/cbf/cbf.json
+
+Package: com.pixeljellyfish.c0mebackf0lders
+Version: 2.0-15+debug
+Architecture: iphoneos-arm
+Maintainer: pixeljellyfish <pixel.jellyfish@gmail.com>, c0dine
+Installed-Size: 1472
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 7.0)
+Filename: ./debs/com.pixeljellyfish.c0mebackf0lders_2.0-15+debug_iphoneos-arm.deb
+Size: 927488
+MD5sum: 9b8dad6823e9724c003e25cb4c3070e1
+SHA1: 17d58a018393790211096a3941ecdffa58d1ab05
+SHA256: 5ca3cd3771e20e02d72ad03295a1ee65a5ae0edc35ed28db27f116029d73eb9f
+Section: Tweaks-Dev
+Description: prevents folders from being removed from the homescreen.
+Author: pixeljellyfish <pixel.jellyfish@gmail.com>
+Depiction: https://devpixel12.github.io/repo/assets/depictions/cbf/
+Icon: https://devpixel12.github.io/repo/assets/depictions/cbf/assets/icon.png
+Name: c0mebackf0lders
+Sileodepiction: https://devpixel12.github.io/repo/assets/depictions/cbf/cbf.json
+
+Package: com.pixeljellyfish.c0mebackf0lders
+Version: 2.0-2+debug
+Architecture: iphoneos-arm
+Maintainer: pixeljellyfish <pixel.jellyfish12@gmail.com>, c0dine
+Installed-Size: 1280
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 7.0)
+Filename: ./debs/com.pixeljellyfish.c0mebackf0lders_2.0-2+debug_iphoneos-arm.deb
+Size: 935030
+MD5sum: eced419daeac70172b2aa3646f36b4ed
+SHA1: a7c5eb67a745a25cb0a506aa6d248b6aad93e9da
+SHA256: 462f0fe1b76390357a2a3228161043edd7009b9aa40cfd84be56aaa585056531
+Section: Tweaks-Dev
+Description: Prevents Folders from being removed from the HomeScreen.
+Author: pixeljellyfish <pixel.jellyfish12@gmail.com>
+Depiction: https://repo.pixeljellyfish.codes/assets/depictions/cbf/
+Icon: https://repo.pixeljellyfish.codes/assets/depictions/cbf/assets/icon.png
+Name: c0mebackf0lders
+Sileodepiction: https://repo.pixeljellyfish.codes/assets/depictions/cbf/cbf.json
+
+Package: com.pixeljellyfish.c0mebackf0lders
+Version: 2.0-6
+Architecture: iphoneos-arm
+Maintainer: pixeljellyfish <pixel.jellyfish@gmail.com>, c0dine
+Installed-Size: 928
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 7.0)
+Filename: ./debs/com.pixeljellyfish.c0mebackf0lders_2.0-6_iphoneos-arm.deb
+Size: 650440
+MD5sum: aa32e418b007beb73c1c0cc42aff2e3b
+SHA1: 5912e6801301f9abfa2970833e2b9c39d2410dc4
+SHA256: 9a1cb4ad7c18868f9dfd91adb67820087c01e85661f09cbf943dba36c97f15b9
+Section: Tweaks-Dev
+Description: prevents folders from being removed from the homescreen.
+Author: pixeljellyfish <pixel.jellyfish@gmail.com>
+Depiction: https://devpixel12.github.io/repo/assets/depictions/cbf/
+Icon: https://devpixel12.github.io/repo/assets/depictions/cbf/assets/icon.png
+Name: c0mebackf0lders
+Sileodepiction: https://devpixel12.github.io/repo/assets/depictions/cbf/cbf.json
+
+Package: com.pixeljellyfish.c0mebackf0lders
+Version: 2.0-7+debug
+Architecture: iphoneos-arm
+Maintainer: pixeljellyfish <pixel.jellyfish@gmail.com>, c0dine
+Installed-Size: 980
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 7.0)
+Filename: ./debs/com.pixeljellyfish.c0mebackf0lders_2.0-7+debug_iphoneos-arm.deb
+Size: 663418
+MD5sum: 450e9c24be0196e289a56c065a117d56
+SHA1: 5aa225eefa19abdada6fb2a57504dd28c21b0944
+SHA256: 3a8f2c8459999200f8f0f74eb48aadeb66fc39f30115b4d7fb307e5bb6865393
+Section: Tweaks-Dev
+Description: prevents folders from being removed from the homescreen.
+Author: pixeljellyfish <pixel.jellyfish@gmail.com>
+Depiction: https://devpixel12.github.io/repo/assets/depictions/cbf/
+Icon: https://devpixel12.github.io/repo/assets/depictions/cbf/assets/icon.png
+Name: c0mebackf0lders
+Sileodepiction: https://devpixel12.github.io/repo/assets/depictions/cbf/cbf.json
+
+Package: com.pixeljellyfish.c0mebackf0lders
+Version: 2.0-8+debug
+Architecture: iphoneos-arm
+Maintainer: pixeljellyfish <pixel.jellyfish@gmail.com>, c0dine
+Installed-Size: 980
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 7.0)
+Filename: ./debs/com.pixeljellyfish.c0mebackf0lders_2.0-8+debug_iphoneos-arm.deb
+Size: 663416
+MD5sum: 1090740dabe81bfc4d9f2208ebfb5c7c
+SHA1: eb5da61c8f6b8d1314bf4108f646bfe3796d33aa
+SHA256: 10f61bd12c5012b29b964f3487a43c1d99b16fc649b194495897558adf566fa8
+Section: Tweaks-Dev
+Description: prevents folders from being removed from the homescreen.
+Author: pixeljellyfish <pixel.jellyfish@gmail.com>
+Depiction: https://devpixel12.github.io/repo/assets/depictions/cbf/
+Icon: https://devpixel12.github.io/repo/assets/depictions/cbf/assets/icon.png
+Name: c0mebackf0lders
+Sileodepiction: https://devpixel12.github.io/repo/assets/depictions/cbf/cbf.json
+
+Package: com.pixeljellyfish.c0mebackf0lders
+Version: 2.0-9+debug
+Architecture: iphoneos-arm
+Maintainer: pixeljellyfish <pixel.jellyfish@gmail.com>, c0dine
+Installed-Size: 980
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 7.0)
+Filename: ./debs/com.pixeljellyfish.c0mebackf0lders_2.0-9+debug_iphoneos-arm.deb
+Size: 663386
+MD5sum: c4ed847ae2daf9eb433229411bc49e17
+SHA1: 6746eae2c8bcd041aed4719f19ed026d9b37b4c5
+SHA256: 1cde486bcb418b50d99565ca4fd32a2a7d90eef505904ba6fce57fe8bf016d5b
+Section: Tweaks-Dev
+Description: prevents folders from being removed from the homescreen.
+Author: pixeljellyfish <pixel.jellyfish@gmail.com>
+Depiction: https://devpixel12.github.io/repo/assets/depictions/cbf/
+Icon: https://devpixel12.github.io/repo/assets/depictions/cbf/assets/icon.png
+Name: c0mebackf0lders
+Sileodepiction: https://devpixel12.github.io/repo/assets/depictions/cbf/cbf.json
+
+Package: com.yourcompany.pjf
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 344
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.yourcompany.pjf_1.0_iphoneos-arm.deb
+Size: 6814
+MD5sum: 3ad507bd2c8a9bf617fb35b9777e63ea
+SHA1: 4b0abdddf58ab4430509f34c6578e77c518573db
+SHA256: dbbab7545b8f6a6fc903e6e34ee03ad48c4123fc2ff351173fd4c693dca50808
+Section: Tweaks-Old
+Description: An awesome MobileSubstrate tweak!
+Author: iCraze
+Name: pjf
+
+Package: pixeljellyfish
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: devpixel ‎
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/pixeljellyfish_0.0.1-1+debug_iphoneos-arm.deb
+Size: 494
+MD5sum: 13ad8a1575cf3b8dbce5b029503313e8
+SHA1: 2c88be6acff5209f5958350bf11a9db482291085
+SHA256: 0bcf75090277333614219e05b0b7877de86f01d58eea658624de3699a5d09adb
+Section: Tweaks-Old
+Description: An awesome MobileSubstrate tweak!
+Author: devpixel ‎
+Depiction: https://devpixel12.github.io/repo/depiction/?p=com.pixeljellyfish.folder-no-remove
+Name: no-folder-remove
+
