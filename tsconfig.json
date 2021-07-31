@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "jsx": "react",
+        "target": "ES3",
+        "module": "ESNext",
+        "moduleResolution": "node",
+        "lib": ["ES2018", "DOM"],
+        "outDir": "./build/",
+        "strict": true,
+        "declaration": true,
+        "removeComments": true,
+        "allowSyntheticDefaultImports": true
+    }
+}

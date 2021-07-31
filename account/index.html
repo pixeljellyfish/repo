@@ -1,66 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Firebase Example</title>
-  <link rel="stylesheet" href="../assets/css/main.css">
-</head>
-<body onload = "initializeApp()">
-  <div id="firebaseui-auth-container">
-    <!-- This is where the Login ui will load -->
-  </div>
-  <!-- The core Firebase JS SDK is always required and must be listed first -->
-<script src="https://www.gstatic.com/firebasejs/6.3.3/firebase-app.js"></script>
-
-  <!-- TODO: Add SDKs for Firebase products that you want to use
-https://firebase.google.com/docs/web/setup#config-web-app -->
-  <script src="https://www.gstatic.com/firebasejs/6.3.3/firebase-auth.js"></script>
-<script>
-  // Your web app's Firebase configuration
-  var firebaseConfig = {
-apiKey: "AIzaSyDhL7zx7NLqBVMyUQrSnsTrm6qKcGF5ltI",
-authDomain: _0x30be29(0x1bd),
-databaseURL: _0x30be29(0x1bf),
-projectId: _0x30be29(0x1c4),
-storageBucket: _0x30be29(0x1c2),
-messagingSenderId: _0x30be29(0x1ba),
-appId: _0x30be29(0x1be),
-measurementId: "G-G8JRN19DC3",
-  };
-  // Initialize Firebase
-  firebase.initializeApp(firebaseConfig);
-</script>
-<script>
-    // 1) Create a new firebaseui.auth instance stored to our local variable ui
-const ui = new firebaseui.auth.AuthUI(firebase.auth());
-
-// 2) These are our configurations.
-const uiConfig = {
-  callbacks: {
-    signInSuccessWithAuthResult(authResult, redirectUrl) {
-      return true;
-    },
-    uiShown() {
-      document.getElementById('loader').style.display = 'none';
-    },
-  },
-  signInFlow: 'popup',
-  signInSuccessUrl: 'signedIn',
-  signInOptions: [
-    firebase.auth.EmailAuthProvider.PROVIDER_ID,
-    firebase.auth.GoogleAuthProvider.PROVIDER_ID,
-    // Additional login options should be listed here
-    // once they are enabled within the console.
-  ],
-};
-
-// 3) Call the 'start' method on our ui class
-// including our configuration options. 
-ui.start('#firebaseui-auth-container', uiConfig);
-
-</script>
+<body>
+ 
+<script src="https://unpkg.com/react@17/umd/react.development.js" crossorigin></script>
+<script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js" crossorigin></script>
 </body>
 </html>
 
