@@ -368,3 +368,7 @@ html {
 .footer-text{
     padding-left: 5px;
 }
+
+input::-webkit-file-upload-button{
+    
+}

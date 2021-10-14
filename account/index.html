@@ -2,7 +2,14 @@
 <html lang="en">
 <head>
 <body>
- 
+    <input type="file" id="file" style="display:none;" accept=".deb"/>
+    <button id="button" name="button" value="Upload" onclick="thisFileUpload();">Upload .deb file</button>
+    <script>
+        function thisFileUpload() {
+            document.getElementById("file").click();
+        };
+</script>
+
 <script src="https://unpkg.com/react@17/umd/react.development.js" crossorigin></script>
 <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js" crossorigin></script>
 </body>
