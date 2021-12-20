@@ -95,7 +95,7 @@
   </ul>
 </div>
 <div>
-<span class="navbar-text actions navbar-right" style="color: #ffffff;"><a class="login" href="./src/index.tsx"><i class="fas fa-firebase"></i>&nbsp; Login</a></span>
+<span class="navbar-text actions navbar-right"><a class="login" href="./src/index.tsx"><i class="fas fa-firebase"></i>&nbsp; Login</a></span>
 </div>
 </ul>   
 </div>
@@ -104,13 +104,15 @@
     <div class="projects">
         <section>
             <div id="myBtnContainer">
-                <button class="btn active" onclick="filterSelection('all')"> Show all </button>
-                <button class="btn" onclick="filterSelection('tweaks')"> Tweaks </button>
-                <button class="btn" onclick="filterSelection('programs')"> Programs </button>
-                <button class="btn" onclick="filterSelection('apps')"> Apps </button>
-                <button class="btn" onclick="filterSelection('themes')"> Themes </button>
-                <button class="btn" onclick="filterSelection('plugins')"> Plugins </button>
+                <button id="ShowAll" class="btn active" onclick="filterSelection('all')" > Show all </button>
+                <button class="btn       " onclick="filterSelection('tweaks')"> Tweaks </button>
+                <button class="btn       " onclick="filterSelection('programs')"> Programs </button>
+                <button class="btn       " onclick="filterSelection('apps')"> Apps </button>
+                <button class="btn       " onclick="filterSelection('themes')"> Themes </button>
+                <button class="btn       " onclick="filterSelection('plugins')"> Plugins </button>
             </div>
+            <script src="assets/js/active.js"></script>
+
             <!-- Portfolio Gallery Grid -->
             <div class="row">
                 <div class="column tweaks">
@@ -126,6 +128,7 @@
                     <div class="content">
                         <a href="index">
                             <img class="contentImg" src="assets/images/tweak_images/particletrail.png" alt="particletrail" style="width:70px; margin-bottom: 2em;"/></a>
+                        <br>
                         <h4>Particle-Trail</h4>
                         <p>A 3D Particle Trail System Wide.</p>
                     </div>
@@ -134,23 +137,39 @@
                     <div class="content">
                         <a href="powercord/themes/rainbows-for-all/rainbows-for-all">
                             <img class="contentImg" src="assets/images/theme_images/rainbows-for-all.png" alt="rainbows-for-all" style="width:70px; margin-bottom: 2em;"/></a>
+                        <br>
                         <h4>rainbows-for-all</h4>
                         <p>A true rainbow discord theme for all.</p>
                     </div>
                 </div>
+                <div class="column plugins">
+                    <div class="content">
+                        <a href="plugings/vs/extensions">
+                            <img class="contentImg" src="assets/images/extension_images/.png" alt="NotePad++" style="width:70px; margin-bottom: 2em;"/></a>
+                        <br>
+                        <h4>NotePad++ (NotePadpp)</h4>
+                        <p>a visual studio extension that adds notepad++ as a menu item via. (tools)-(NotePad++)</p>
+                    </div>
+                </div>
+
                 <!-- END GRID -->
             </div>
         </section>
     </div>
     <div class="footer">
+
         <!-- Footer -->
         <footer class="footer font-small indigo">
+
             <!-- Footer Links -->
             <div class="container text-center text-md-left">
+
                 <!-- Grid row -->
                 <div class="row">
+
                     <!-- Grid column -->
                     <div class="col-md-3 mx-auto">
+
                         <!-- Links -->
                         <h5 class="font-weight-bold text-uppercase mt-3 mb-4">social media</h5>
                         <ul class="list-unstyled">
@@ -173,10 +192,13 @@
                             </li>
                         </ul>
                     </div>
+
                     <!-- Grid column -->
                     <hr class="clearfix w-100 d-md-none">
+
                     <!-- Grid column -->
                     <div class="col-md-3 mx-auto">
+
                         <!-- Links -->
                         <h5 class="font-weight-bold text-uppercase mt-3 mb-4">Repository</h5>
                         <ul class="list-unstyled">
@@ -199,10 +221,13 @@
                             </li>
                         </ul>
                     </div>
+
                     <!-- Grid column -->
                     <hr class="clearfix w-100 d-md-none">
+
                     <!-- Grid column -->
                     <div class="col-md-3 mx-auto">
+
                         <!-- Links -->
                         <h5 class="font-weight-bold text-uppercase mt-3 mb-4">GitHub</h5>
                         <ul class="list-unstyled">
@@ -228,20 +253,28 @@
                     </div>
                 </div>
             </div>
+
             <!-- Grid row -->
+
             <!-- Copyright -->
             <div class="footer-copyright text-center py-3"><a href="tos">© 2020 Copyright:</a><a class="footer-text" href="index">repo.pixeljellyfish.codes</a>
             </div>
+
             <!-- Copyright -->
         </footer>
     </div>
+
     <!-- The core Firebase JS SDK is always required and must be listed first -->
+    
     <script src="https://www.gstatic.com/firebasejs/7.17.1/firebase-app.js"></script>
 
     <!-- TODO: Add SDKs for Firebase products that you want to use
      https://firebase.google.com/docs/web/setup#available-libraries -->
+
     <script src="https://www.gstatic.com/firebasejs/7.17.1/firebase-analytics.js"></script>
+    
     <!-- Add The Firebase config -->
+
     <script src="/assets/js/firebase-stuff.js"></script>
 </body>
 

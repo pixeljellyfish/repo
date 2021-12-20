@@ -65,9 +65,6 @@
      .moreWindow .container .window .links li span {
          padding-right: 120px;
      }
-     .footer-text {
-         color: #ffffff;
-     }
      .footer {
          background: linear-gradient(-45deg, #00ff88, #d400ff, #45e226, #0011ff);
          background-size: 400% 400%;
@@ -97,9 +94,6 @@
      }
      .moreWindow .container .window .links li span {
          padding-right: 110px;
-     }
-     .footer-text {
-         color: #ffffff;
      }
      .footer {
          background: linear-gradient(-45deg, #00ff88, #d400ff, #45e226, #0011ff);
@@ -182,9 +176,6 @@
          right: 0;
          left: 0;
      }
-     .footer-text {
-         color: #ffffff;
-     }
      .footer {
          background: linear-gradient(-45deg, #00ff88, #d400ff, #45e226, #0011ff);
          background-size: 400% 400%;
@@ -206,7 +197,7 @@
  /* main site css */
  
  html {
-     color: #ffffff;
+     color: #333;
  }
  
 body,
@@ -247,10 +238,6 @@ html {
      }
  }
  
- .footer-text {
-     color: #ffffff;
- }
- 
  .links {
      color: #ffffff;
  }
@@ -283,7 +270,7 @@ html {
     color: #ffffff;
     outline: none;
     padding: 11px 16px;
-    background-color: #61F1D1;
+    background-color: #333;
     border: none;
     border-radius: 30px;
     cursor: pointer;
@@ -309,7 +296,7 @@ html {
     font-size: 16px;
     border-radius: 320px;
     padding: 16px;
-    background-color:#61F1D1;
+    background-color:#333;
     color: #fcfcfc;
     font-weight: bold;
     transition: all 0.2s ease-in-out;
@@ -336,6 +323,7 @@ html {
 }
 
 .buttons {
+    color: #333;
     padding-top: 10px;
     display: flex;
     flex-direction: column;
@@ -367,8 +355,4 @@ html {
 
 .footer-text{
     padding-left: 5px;
-}
-
-input::-webkit-file-upload-button{
-    
 }

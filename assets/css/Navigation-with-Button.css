@@ -195,10 +195,10 @@
 }
 
 .navigation-clean-button .navbar-text .action-button, .navigation-clean-button .navbar-text .action-button:active, .navigation-clean-button .navbar-text .action-button:hover {
-  background: #56c6c6;
+  background: #333;
   border-radius: 20px;
   font-size: inherit;
-  color: #fff;
+  color: #333;
   box-shadow: none;
   border: none;
   text-shadow: none;
@@ -208,14 +208,17 @@
 }
 
 .navigation-clean-button .navbar-text .action-button:hover {
-  background: #66d7d7;
+  background: #333;
 }
 
 .navigation-clean-button.navbar-dark .action-button, .navigation-clean-button.navbar-dark .action-button:active {
-  background: #208f8f;
+  background: #333;
 }
 
 .navigation-clean-button.navbar-dark .action-button:hover {
-  background: #269d9d;
+  background: #333;
 }
 
+a.button:hover {
+  color: #333;
+}

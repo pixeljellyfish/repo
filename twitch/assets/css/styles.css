@@ -44,3 +44,12 @@ img {
 .pt13{
   color: #ffffff;
 }
+
+.footer {
+  color: #333;
+}
+
+/* Style the active class (and buttons on mouse-over) */
+.active, .a, .btn:hover {
+  color: #333;
+}
