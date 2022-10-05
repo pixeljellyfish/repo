@@ -1,6 +1,10 @@
 
 #!/bin/sh
 
+# postinst script for scan-packages
+find . -name '.DS_Store' -type f -delete
+
+
 #packages
 echo building package list
 dpkg-scanpackages -m ./debs > Packages
