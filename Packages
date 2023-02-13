@@ -494,3 +494,23 @@ Depiction: https://pixeljellyfish.xyz/repo/particletrail
 Icon: https://pixeljellyfish.xyz/repo/particletrail/icon.png
 Name: particletrail
 
+Package: xyz.pixeljellyfish.particletrail
+Version: 0.0.2-3+debug
+Architecture: iphoneos-arm64
+Maintainer: pixeljellyfish
+Installed-Size: 220
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0)
+Filename: ./debs/xyz.pixeljellyfish.particletrail_0.0.2-3+debug_iphoneos-arm64.deb
+Size: 222894
+MD5sum: d8ed9fef8facc4dfa07d4f03f7145d93
+SHA1: e86d6b581f981436e5b83519da2ce54f495c9c5f
+SHA256: 07fd9f373dba30c8d47cc20e53cc423887c1eec8740db459691fc65bb5d17b98
+Section: Tweaks (SpringBoard)
+Priority: optional
+Homepage: https://pixeljellyfish.xyz/repo/particletrail
+Description: Particle Trail is a tweak that adds a particle trail to your icons when you press them.
+Author: pixeljellyfish
+Depiction: https://pixeljellyfish.xyz/repo/particletrail
+Icon: https://pixeljellyfish.xyz/repo/particletrail/icon.png
+Name: particletrail
+
