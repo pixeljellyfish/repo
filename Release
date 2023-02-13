@@ -2,8 +2,8 @@ Origin: repo.pixeljellyfish.codes
 Label: repo.pixeljellyfish.codes
 Suite: stable
 Version: 1.0
-Codename: iphoneos-arm64
-Architectures: iphoneos-arm
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: a private beta repo for my tweaks.
 MD5Sum:
