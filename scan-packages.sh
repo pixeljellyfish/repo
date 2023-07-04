@@ -7,6 +7,7 @@ find . -name '.DS_Store' -type f -delete
 echo "Building package list"
 dpkg-scanpackages -m ./debs > Packages
 
+
 echo "Bzip compressing"
 bzip2 -5fkv Packages > Packages.bz2
 
