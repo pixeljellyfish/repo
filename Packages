@@ -459,10 +459,10 @@ Maintainer: pixeljellyfish <pixel.jellyfish12@gmail.com>, c0dine
 Installed-Size: 1008
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common, firmware (>= 7.0)
 Filename: ./debs/com.pixeljellyfish.c0mebackf0lders_3.5_iphoneos-arm.deb
-Size: 622286
-MD5sum: 6961ad34b2fd8ea55c7826e1ae6d0487
-SHA1: 71ac04ddab0c912434338b95fedab6e04c2ecde3
-SHA256: b4539e6fc16ecbd7074f5f497d7cae0d37eb043c7ac2c9f24d0747eac180140e
+Size: 622170
+MD5sum: 5e52999805b97016748c8acfa2b54c46
+SHA1: b30d0b0511964d9fcafc9d0e15ea4b139b1aca0b
+SHA256: 25a51e203550c311e325d328c4a728a87f1551b33bba62556c9e747f4fe68d8b
 Section: Tweaks
 Description: Prevents Folders from being removed from the HomeScreen.
 Tag: role::user, purpose::system

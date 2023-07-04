@@ -1,19 +1,17 @@
-
 #!/bin/sh
 
 # postinst script for scan-packages
 find . -name '.DS_Store' -type f -delete
 
-
-#packages
-echo building package list
+# packages
+echo "Building package list"
 dpkg-scanpackages -m ./debs > Packages
 
-echo bzip compressing
+echo "Bzip compressing"
 bzip2 -5fkv Packages > Packages.bz2
 
-echo xz compressing
+echo "XZ compressing"
 xz -5fkev Packages > Packages.xz
 
-echo lzma compressing
+echo "LZMA compressing"
 xz -5fkev --format=lzma Packages > Packages.lzma
